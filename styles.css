@@ -3,8 +3,9 @@
     justify-content: space-between;
     background-color:#000000;
     padding: 15px;
-    font-size: 20px;
+    font-size: 30px;
     font-family: sans-serif;
+    font-style: italic;
     font-weight: 400;
     color: #ffffff;
 }
@@ -21,6 +22,7 @@ body{
     flex-wrap: wrap;
     margin: 40px;
     font-family: sans-serif;
+    font-style: oblique;
     
 }
 .grid img{
