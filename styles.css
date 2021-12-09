@@ -34,9 +34,9 @@ body{
     border-radius: 20px;
     background-color: #ffffff;
     /* modify margin and padding here*/
-    padding: 30px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
     width:310px;
-    font-family: fantasy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
     
 }
